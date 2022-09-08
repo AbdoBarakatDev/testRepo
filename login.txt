@@ -4,8 +4,22 @@ void login{
 
 testMethod(){
 //,ddkfmdfnj
+<<<<<<< HEAD
 }
 
 Ahmed newMethod(){
 //from ahmed branch
 }
+=======
+
+Ahmed newMethod(){
+//from ahmed branch
+}
+
+add line from mastar
+
+hello from Ahmed
+
+}
+
+>>>>>>> ahmed
