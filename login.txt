@@ -7,3 +7,5 @@ Ahmed newMethod(){
 }
 
 add line from mastar
+
+hello from Ahmed
