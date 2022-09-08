@@ -2,10 +2,15 @@ void login{
 	new Line
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 248211aade53c7ac44937ba08bda61d9c128fe4e
 testMethod(){
 //,ddkfmdfnj
 
 Ahmed newMethod(){
+<<<<<<< HEAD
 //from ahmed branch
 }
 
@@ -13,4 +18,8 @@ add line from mastar
 
 hello from Ahmed
 
+=======
+}
+ahmed
+>>>>>>> 248211aade53c7ac44937ba08bda61d9c128fe4e
 
