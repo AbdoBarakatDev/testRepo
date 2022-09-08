@@ -1,3 +1,7 @@
 void login{
 	new Line
 }
+
+Ahmed newMethod(){
+//from ahmed branch
+}
