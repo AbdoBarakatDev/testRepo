@@ -1,11 +1,6 @@
 logout
+add new method(){
 
-//// new line origin do conflict
+// method body
 
-// add line from aboooood
-=======
-add line from shalapy.
-
-add aykalam mn shalaby
-
-// add line from aboooood
+}
