@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /////shoghl ndeeef
+=======
+>>>>>>> c6b7979fea479c5284079bc4d88d6f12a65c70a5
 
 login(){
 Login Body
