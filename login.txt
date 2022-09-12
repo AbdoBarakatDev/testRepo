@@ -6,3 +6,7 @@
 login(){
 Login Body
 }
+
+loginWithEmailAndPass(email,pass){
+
+}
